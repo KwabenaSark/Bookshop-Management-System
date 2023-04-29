@@ -24,11 +24,6 @@ password:12345
 
 
 
-## Usage
-
-1. Open the web browser and navigate to the index page.
-2. Login with your account details.
-3. Start managing books, authors, categories and orders.
 
 ## Screenshots
 
@@ -50,7 +45,8 @@ password:12345
 
 
 ##  Diagrams
+### use case diagram
 ![Usecase](screenshots/usecase.png)
-
+### class diagram
 ![Class](screenshots/classdiagram.png)
 
