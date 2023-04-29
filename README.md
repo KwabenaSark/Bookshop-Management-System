@@ -32,10 +32,21 @@ password:12345
 
 ## Screenshots
 
+
+
+## Login Page
 <img src="screenshots/login.png" width="400">
+
+## Book Management Page
 <img src="screenshots/home.png" width="400">
+
+## Receipt Page
 <img src="screenshots/receipt.png" width="400">
+
+## Report Page
 <img src="screenshots/report.png" width="400">
+
+
 
 
 ##  Diagrams
