@@ -8,7 +8,7 @@ password:12345
 
 ## Features
 
-- **Authentication**: Users can create an account and login to access the system.
+- **Authentication**: Admin can create an account for users to login to access the system.
 - **Book Management**: Users can add, view, edit and delete books from the system.
 - **Author Management**: Users can manage authors for each book, add new authors, view, edit and delete authors from the system.
 - **Category Management**: Users can manage book categories, add new categories, view, edit and delete categories from the system.
@@ -31,4 +31,10 @@ password:12345
 ![Book Management Page](screenshots/home.png)
 
 ![Report Page](screenshots/report.png)
+
+
+##  Diagrams
+![Usecase](screenshots/usecase.png)
+
+[Class](screenshots/classdiagram.png)
 
