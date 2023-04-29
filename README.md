@@ -28,7 +28,7 @@ password:12345
 
 ![Login Page](screenshots/login.png)
 
-![Book Management Page](screenshots/book-management.png)
+![Book Management Page](screenshots/home.png)
 
-![Order Management Page](screenshots/order-management.png)
+![Report Page](screenshots/report.png)
 
