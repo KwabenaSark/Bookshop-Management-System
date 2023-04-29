@@ -84,12 +84,12 @@ define("DEFAULT_EMAIL", "");
 define("DEFAULT_EMAIL_ACCOUNT_NAME", "");
 
 // Database Configuration Settings
-define("DB_HOST", "localhost");
-define("DB_USERNAME", "root");
-define("DB_PASSWORD", "");
-define("DB_NAME", "mgtsys");
+define("DB_HOST", "sql8.freemysqlhosting.net");
+define("DB_USERNAME", "sql8614940");
+define("DB_PASSWORD", "n9hpyrcLAC");
+define("DB_NAME", "sql8614940");
 define("DB_TYPE", "mysql");
-define("DB_PORT", "");
+define("DB_PORT", "3306");
 define("DB_CHARSET", "utf8");
 
 define("MAX_RECORD_COUNT", 20); //Default Max Records to Retrieve  per Page
