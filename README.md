@@ -44,5 +44,5 @@ password:12345
 ##  Diagrams
 ![Usecase](screenshots/usecase.png)
 
-[Class](screenshots/classdiagram.png)
+![Class](screenshots/classdiagram.png)
 
