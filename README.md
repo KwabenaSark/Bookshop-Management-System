@@ -3,10 +3,22 @@
 
 This is a bookshop management system built using PHP.This system provides various functionalities to different user roles, such as Admin, Manager, and Clerk
 ## Demo login
-|  Admin Login     | Manager Login     | Clerk Login      |
-| ---------------- | ------------------| ---------------- |
-| username: Admin  | username:Manager  | username: Clerk  |
-| password: 12345  | password: 12345   | password: 12345  |
+Sure, here is a clearer representation of the table:
+
+|          | Demo Admin Login | 
+|----------|-----------------|
+| Username | Admin           |
+| Password | 12345           |
+|          |                 |
+|          | Demo Admin Login | 
+|----------|-----------------|
+| Username | Admin           |
+| Password | 12345           |
+|          |                 |
+|          | Demo Admin Login | 
+|----------|-----------------|
+| Username | Admin           |
+| Password | 12345           |
 ## [Click me](https://bookshop-management-systems.000webhostapp.com/)
 
 
