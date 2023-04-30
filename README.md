@@ -10,7 +10,7 @@ This is a bookshop management system built using PHP.
 
 ## Features
 
-- **Authentication**: Admin can create an account for users to login to access the system.
+- **Authentication**: Admins can create an account for users to login to access the system with certain restrictions.
 - **Search functionality**: All users can search for books by title or author using the search functionality.
 - **Receipt Generation**: The manager and the clerk can generate receipts for sold books, and the Admin can keep track of the generated receipts.
 - **Admin to manage accounts**: The admin can create, view, and edit accounts of the Manager and Clerk.
