@@ -47,5 +47,5 @@ This is a bookshop management system built using PHP.This system provides variou
 ### use case diagram
 ![Usecase](screenshots/usecase.png)
 ### class diagram
-![Class](screenshots/classdiagram.png)
+![Class](screenshots/classdiagram.jpg)
 
