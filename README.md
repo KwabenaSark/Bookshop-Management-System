@@ -2,7 +2,8 @@
 
 
 This is a bookshop management system built using PHP.This system provides various functionalities to different user roles, such as Admin, Manager, and Clerk
-| Demo Admin Login | Demo Admin Login | Demo Admin Login |
+## Demo login
+|  Admin Login     | Manager Login    | Clerk Login      |
 | ---------------- | ---------------- | ---------------- |
 | username: Admin  | username: Admin  | username: Admin  |
 | password: 12345  | password: 12345  | password: 12345  |
