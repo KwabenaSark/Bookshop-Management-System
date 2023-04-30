@@ -2,7 +2,7 @@
 
 
 This is a bookshop management system built using PHP.
-### Demo Login
+### Demo Admin Login
 * username: Admin
 * password: 12345
 ## [Click me](https://bookshop-management-systems.000webhostapp.com/)
