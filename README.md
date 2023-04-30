@@ -8,6 +8,11 @@ This is a bookshop management system built using PHP.This system provides variou
 | username;          Admin|      |    | username;          Manager|      |    | username;          Clerk|      |
 | password;          12345|      |    | password;           12345 |      |    | password ;         12345|      |
 
+| Demo Admin Login |      |      |    | Demo Manager Login |      |      |    | Demo Clerk Login |      |      |
+|------------------|:----:|:----:|----|:------------------:|:----:|:----:|----|:------------------:|:----:|:----:|
+| **username**     | Admin|      |    | **username**       |Manager|      |    | **username**     | Clerk|      |
+| **password**     | 12345|      |    | **password**       | 12345|      |    | **password**     | 12345|      |
+
 ## [Click me](https://bookshop-management-systems.000webhostapp.com/)
 
 
